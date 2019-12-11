@@ -1,4 +1,5 @@
-﻿#VARIABLES
+#Script to Sync Sharepoint Library into File System
+#VARIABLES
 $userName = "**********"
 $password = "**********"
 $securePassword = ConvertTo-SecureString $password –AsPlainText –force
